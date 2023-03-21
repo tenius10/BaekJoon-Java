@@ -6,7 +6,9 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class Main {
+//https://www.acmicpc.net/problem/1753
+
+public class BaekJoon1753 {
     public static void main(String[] args) throws IOException {
         //입력
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
