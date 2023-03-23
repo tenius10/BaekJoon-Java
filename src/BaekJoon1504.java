@@ -6,6 +6,8 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
+//https://www.acmicpc.net/problem/1504
+
 public class BaekJoon1504 {
     static final int INF=480_000_001;
     static int V, E, v1, v2;
